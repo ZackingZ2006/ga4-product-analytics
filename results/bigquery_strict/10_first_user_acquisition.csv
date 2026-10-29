@@ -1,0 +1,9 @@
+result_set,first_user_source,first_user_medium,sessions,entrants,funnel_completions,entry_conversion_rate,verified_orders,recorded_revenue_usd
+10_first_user_acquisition,google,organic,110939,23313,726,0.031141423240252219,1150,83032.0
+10_first_user_acquisition,(direct),(none),82193,17408,625,0.035903033088235295,964,67992.0
+10_first_user_acquisition,<Other>,<Other>,51278,10443,291,0.027865555874748635,469,30355.0
+10_first_user_acquisition,<Other>,referral,34147,7351,263,0.035777445245544826,431,30714.0
+10_first_user_acquisition,shop.googlemerchandisestore.com,referral,28401,6541,334,0.051062528665341694,553,39789.0
+10_first_user_acquisition,(data deleted),(data deleted),21940,5594,373,0.066678584197354313,642,39934.0
+10_first_user_acquisition,google,cpc,15355,3119,87,0.027893555626803464,130,7502.0
+10_first_user_acquisition,<Other>,organic,10007,2043,59,0.028879099363680862,89,7026.0

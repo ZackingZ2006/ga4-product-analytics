@@ -1,0 +1,11 @@
+[{
+  "result_set": "02_data_quality",
+  "source_event_rows": "4295584",
+  "events_without_usable_session": "0",
+  "events_with_duplicate_session_parameter": "0",
+  "recorded_purchase_events": "5692",
+  "purchases_without_transaction_id": "906",
+  "purchases_without_usd_amount": "0",
+  "purchases_with_negative_amount": "0",
+  "nonfinite_amounts": "0"
+}]

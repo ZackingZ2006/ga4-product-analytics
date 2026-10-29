@@ -1,0 +1,34 @@
+[{
+  "result_set": "08b_funnel_by_device",
+  "device_category": "desktop",
+  "view_sessions": "44183",
+  "cart_sessions": "8717",
+  "checkout_sessions": "3082",
+  "purchase_sessions": "1592",
+  "view_to_cart_rate": "0.19729307652264447",
+  "cart_to_checkout_rate": "0.35356200527704484",
+  "checkout_to_purchase_rate": "0.5165476963011032",
+  "view_to_purchase_rate": "0.036031957992893195"
+}, {
+  "result_set": "08b_funnel_by_device",
+  "device_category": "mobile",
+  "view_sessions": "30050",
+  "cart_sessions": "6026",
+  "checkout_sessions": "2178",
+  "purchase_sessions": "1166",
+  "view_to_cart_rate": "0.20053244592346089",
+  "cart_to_checkout_rate": "0.36143378692333222",
+  "checkout_to_purchase_rate": "0.53535353535353536",
+  "view_to_purchase_rate": "0.038801996672212978"
+}, {
+  "result_set": "08b_funnel_by_device",
+  "device_category": "tablet",
+  "view_sessions": "1678",
+  "cart_sessions": "319",
+  "checkout_sessions": "111",
+  "purchase_sessions": "60",
+  "view_to_cart_rate": "0.19010727056019069",
+  "cart_to_checkout_rate": "0.34796238244514105",
+  "checkout_to_purchase_rate": "0.54054054054054057",
+  "view_to_purchase_rate": "0.035756853396901073"
+}]

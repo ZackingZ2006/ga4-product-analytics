@@ -1,0 +1,2 @@
+result_set,candidate_sessions,sessions_touching_source_boundary,included_sessions,candidates_missing_session_start,candidates_with_dimension_conflict
+03_session_scope,360129,5474,354655,5272,0

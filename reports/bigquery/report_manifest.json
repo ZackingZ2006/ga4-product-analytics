@@ -1,0 +1,18 @@
+{
+  "mode": "source",
+  "job_id_user_supplied": "job_azoK8yFb8_Va3Fc7oapUVR52kyoB",
+  "remote_job_verified": false,
+  "eligible_sessions": 354655,
+  "funnel_counts": [
+    75911,
+    14284,
+    5143,
+    2762
+  ],
+  "weak_counts": [
+    75911,
+    15062,
+    5371,
+    2818
+  ]
+}

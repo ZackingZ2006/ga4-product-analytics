@@ -1,0 +1,5 @@
+step,event,sessions,previous_sessions,entrants,step_conversion_rate,entry_conversion_rate
+1,view_item,1000,1000,1000,1,1
+2,add_to_cart,520,1000,1000,0.52,0.52
+3,begin_checkout,275,520,1000,0.5288461538461539,0.275
+4,purchase,120,275,1000,0.4363636363636364,0.12

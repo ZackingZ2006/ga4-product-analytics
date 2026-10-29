@@ -1,0 +1,15 @@
+[{
+  "result_set": "07_kpi_overview",
+  "eligible_sessions": "354655",
+  "pseudonymous_users": "265911",
+  "sessions_with_purchase_event": "4817",
+  "sessions_with_verified_order": "4021",
+  "strict_funnel_purchase_sessions": "2762",
+  "verified_order_session_rate": "0.011337778968293129",
+  "view_to_purchase_rate": "0.0363847136778596",
+  "verified_orders": "4436",
+  "orders_with_known_amount": "4436",
+  "recorded_revenue_usd": "306678.0",
+  "aov_known_amount_usd": "69.133904418394948",
+  "amount_completeness_rate": "1.0"
+}]

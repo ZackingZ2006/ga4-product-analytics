@@ -1,0 +1,34 @@
+[{
+  "result_set": "09_device_conversion",
+  "device_category": "desktop",
+  "sessions": "205785",
+  "entrants": "44183",
+  "completions": "1558",
+  "verified_buying_sessions": "2288",
+  "rate": "0.035262431251838942",
+  "verified_order_session_rate": "0.011118400272128678",
+  "wilson_lower_95": "0.03358259115141448",
+  "wilson_upper_95": "0.0370230798363938"
+}, {
+  "result_set": "09_device_conversion",
+  "device_category": "mobile",
+  "sessions": "140992",
+  "entrants": "30050",
+  "completions": "1144",
+  "verified_buying_sessions": "1651",
+  "rate": "0.038069883527454246",
+  "verified_order_session_rate": "0.011709884248751702",
+  "wilson_lower_95": "0.03596456535155193",
+  "wilson_upper_95": "0.040293293144647774"
+}, {
+  "result_set": "09_device_conversion",
+  "device_category": "tablet",
+  "sessions": "7878",
+  "entrants": "1678",
+  "completions": "60",
+  "verified_buying_sessions": "82",
+  "rate": "0.035756853396901073",
+  "verified_order_session_rate": "0.010408733181010408",
+  "wilson_lower_95": "0.027879782226243783",
+  "wilson_upper_95": "0.045754738408755359"
+}]

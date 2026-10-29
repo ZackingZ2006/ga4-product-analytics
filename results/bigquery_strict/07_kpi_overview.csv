@@ -1,0 +1,2 @@
+result_set,eligible_sessions,pseudonymous_users,sessions_with_purchase_event,sessions_with_verified_order,strict_funnel_purchase_sessions,verified_order_session_rate,view_to_purchase_rate,verified_orders,orders_with_known_amount,recorded_revenue_usd,aov_known_amount_usd,amount_completeness_rate
+07_kpi_overview,354655,265911,4817,4021,2762,0.011337778968293129,0.0363847136778596,4436,4436,306678.0,69.133904418394948,1.0

@@ -1,0 +1,9 @@
+[{
+  "result_set": "04_order_quality",
+  "distinct_transaction_ids": "4451",
+  "repeated_transaction_ids": "326",
+  "repeated_purchase_rows": "335",
+  "quarantined_transactions": "15",
+  "unassigned_valid_transactions": "0",
+  "valid_transactions_missing_amount": "0"
+}]

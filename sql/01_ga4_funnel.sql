@@ -1,5 +1,4 @@
 -- GA4 Product Analytics | GoogleSQL / BigQuery
--- STATUS: executed successfully on BigQuery Sandbox on 2026-10-29.
 -- Run as ONE multi-statement script. TEMP tables do not modify source data.
 -- Run 00_profile.sql first. This main script scans all 92 source shards once.
 -- Changing cohort_start/end does NOT reduce that scan; inspect bytes before run.

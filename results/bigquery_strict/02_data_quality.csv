@@ -1,0 +1,2 @@
+result_set,source_event_rows,events_without_usable_session,events_with_duplicate_session_parameter,recorded_purchase_events,purchases_without_transaction_id,purchases_without_usd_amount,purchases_with_negative_amount,nonfinite_amounts
+02_data_quality,4295584,0,0,5692,906,0,0,0

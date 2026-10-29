@@ -1,0 +1,8 @@
+[{
+  "result_set": "03_session_scope",
+  "candidate_sessions": "360129",
+  "sessions_touching_source_boundary": "5474",
+  "included_sessions": "354655",
+  "candidates_missing_session_start": "5272",
+  "candidates_with_dimension_conflict": "0"
+}]

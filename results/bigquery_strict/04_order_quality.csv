@@ -1,0 +1,2 @@
+result_set,distinct_transaction_ids,repeated_transaction_ids,repeated_purchase_rows,quarantined_transactions,unassigned_valid_transactions,valid_transactions_missing_amount
+04_order_quality,4451,326,335,15,0,0

@@ -1,0 +1,45 @@
+[{
+  "result_set": "08_funnel_steps",
+  "step": "1",
+  "event": "view_item",
+  "sessions": "75911",
+  "previous_sessions": "75911",
+  "entrants": "75911",
+  "step_conversion_rate": "1.0",
+  "entry_conversion_rate": "1.0",
+  "dropoff_sessions": null,
+  "dropoff_rate": null
+}, {
+  "result_set": "08_funnel_steps",
+  "step": "2",
+  "event": "add_to_cart",
+  "sessions": "14284",
+  "previous_sessions": "75911",
+  "entrants": "75911",
+  "step_conversion_rate": "0.18816772272793139",
+  "entry_conversion_rate": "0.18816772272793139",
+  "dropoff_sessions": "61627",
+  "dropoff_rate": "0.81183227727206864"
+}, {
+  "result_set": "08_funnel_steps",
+  "step": "3",
+  "event": "begin_checkout",
+  "sessions": "5143",
+  "previous_sessions": "14284",
+  "entrants": "75911",
+  "step_conversion_rate": "0.36005320638476618",
+  "entry_conversion_rate": "0.067750391906311339",
+  "dropoff_sessions": "9141",
+  "dropoff_rate": "0.63994679361523388"
+}, {
+  "result_set": "08_funnel_steps",
+  "step": "4",
+  "event": "purchase",
+  "sessions": "2762",
+  "previous_sessions": "5143",
+  "entrants": "75911",
+  "step_conversion_rate": "0.53704063776006217",
+  "entry_conversion_rate": "0.0363847136778596",
+  "dropoff_sessions": "2381",
+  "dropoff_rate": "0.46295936223993783"
+}]

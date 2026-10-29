@@ -1,0 +1,122 @@
+[{
+  "kind": "device",
+  "segment": "desktop",
+  "views": "44183",
+  "carts": "8250",
+  "checkouts": "2949",
+  "purchases": "1558",
+  "cart_checkout_pct": "35.75",
+  "purchase_sessions_any": "4817",
+  "purchase_sessions_without_any_checkout": "3",
+  "cart_without_ordered_but_any_checkout": "554"
+}, {
+  "kind": "device",
+  "segment": "mobile",
+  "views": "30050",
+  "carts": "5732",
+  "checkouts": "2085",
+  "purchases": "1144",
+  "cart_checkout_pct": "36.37",
+  "purchase_sessions_any": "4817",
+  "purchase_sessions_without_any_checkout": "3",
+  "cart_without_ordered_but_any_checkout": "554"
+}, {
+  "kind": "device",
+  "segment": "tablet",
+  "views": "1678",
+  "carts": "302",
+  "checkouts": "109",
+  "purchases": "60",
+  "cart_checkout_pct": "36.09",
+  "purchase_sessions_any": "4817",
+  "purchase_sessions_without_any_checkout": "3",
+  "cart_without_ordered_but_any_checkout": "554"
+}, {
+  "kind": "first_source_medium",
+  "segment": "google / organic",
+  "views": "23313",
+  "carts": "4093",
+  "checkouts": "1399",
+  "purchases": "726",
+  "cart_checkout_pct": "34.18",
+  "purchase_sessions_any": "4817",
+  "purchase_sessions_without_any_checkout": "3",
+  "cart_without_ordered_but_any_checkout": "554"
+}, {
+  "kind": "first_source_medium",
+  "segment": "(direct) / (none)",
+  "views": "17408",
+  "carts": "3311",
+  "checkouts": "1187",
+  "purchases": "625",
+  "cart_checkout_pct": "35.85",
+  "purchase_sessions_any": "4817",
+  "purchase_sessions_without_any_checkout": "3",
+  "cart_without_ordered_but_any_checkout": "554"
+}, {
+  "kind": "first_source_medium",
+  "segment": "\u003cOther\u003e / \u003cOther\u003e",
+  "views": "10443",
+  "carts": "1869",
+  "checkouts": "633",
+  "purchases": "291",
+  "cart_checkout_pct": "33.87",
+  "purchase_sessions_any": "4817",
+  "purchase_sessions_without_any_checkout": "3",
+  "cart_without_ordered_but_any_checkout": "554"
+}, {
+  "kind": "first_source_medium",
+  "segment": "\u003cOther\u003e / referral",
+  "views": "7351",
+  "carts": "1380",
+  "checkouts": "479",
+  "purchases": "263",
+  "cart_checkout_pct": "34.71",
+  "purchase_sessions_any": "4817",
+  "purchase_sessions_without_any_checkout": "3",
+  "cart_without_ordered_but_any_checkout": "554"
+}, {
+  "kind": "first_source_medium",
+  "segment": "shop.googlemerchandisestore.com / referral",
+  "views": "6541",
+  "carts": "1368",
+  "checkouts": "556",
+  "purchases": "334",
+  "cart_checkout_pct": "40.64",
+  "purchase_sessions_any": "4817",
+  "purchase_sessions_without_any_checkout": "3",
+  "cart_without_ordered_but_any_checkout": "554"
+}, {
+  "kind": "first_source_medium",
+  "segment": "(data deleted) / (data deleted)",
+  "views": "5594",
+  "carts": "1347",
+  "checkouts": "591",
+  "purchases": "373",
+  "cart_checkout_pct": "43.88",
+  "purchase_sessions_any": "4817",
+  "purchase_sessions_without_any_checkout": "3",
+  "cart_without_ordered_but_any_checkout": "554"
+}, {
+  "kind": "first_source_medium",
+  "segment": "google / cpc",
+  "views": "3119",
+  "carts": "531",
+  "checkouts": "173",
+  "purchases": "87",
+  "cart_checkout_pct": "32.58",
+  "purchase_sessions_any": "4817",
+  "purchase_sessions_without_any_checkout": "3",
+  "cart_without_ordered_but_any_checkout": "554"
+}, {
+  "kind": "first_source_medium",
+  "segment": "\u003cOther\u003e / organic",
+  "views": "2043",
+  "carts": "366",
+  "checkouts": "119",
+  "purchases": "59",
+  "cart_checkout_pct": "32.51",
+  "purchase_sessions_any": "4817",
+  "purchase_sessions_without_any_checkout": "3",
+  "cart_without_ordered_but_any_checkout": "554"
+}]

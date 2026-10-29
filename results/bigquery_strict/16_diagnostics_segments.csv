@@ -1,0 +1,12 @@
+kind,segment,views,carts,checkouts,purchases,cart_checkout_pct,purchase_sessions_any,purchase_sessions_without_any_checkout,cart_without_ordered_but_any_checkout
+device,desktop,44183,8250,2949,1558,35.75,4817,3,554
+device,mobile,30050,5732,2085,1144,36.37,4817,3,554
+device,tablet,1678,302,109,60,36.09,4817,3,554
+first_source_medium,google / organic,23313,4093,1399,726,34.18,4817,3,554
+first_source_medium,(direct) / (none),17408,3311,1187,625,35.85,4817,3,554
+first_source_medium,<Other> / <Other>,10443,1869,633,291,33.87,4817,3,554
+first_source_medium,<Other> / referral,7351,1380,479,263,34.71,4817,3,554
+first_source_medium,shop.googlemerchandisestore.com / referral,6541,1368,556,334,40.64,4817,3,554
+first_source_medium,(data deleted) / (data deleted),5594,1347,591,373,43.88,4817,3,554
+first_source_medium,google / cpc,3119,531,173,87,32.58,4817,3,554
+first_source_medium,<Other> / organic,2043,366,119,59,32.51,4817,3,554
