@@ -1,5 +1,7 @@
 # GA4 Product Analytics — purchase funnel in BigQuery SQL
 
+[![Funnel logic tests](https://github.com/ZackingZ2006/ga4-product-analytics/actions/workflows/ci.yml/badge.svg)](https://github.com/ZackingZ2006/ga4-product-analytics/actions/workflows/ci.yml)
+
 Session-level purchase funnel (view item → add to cart → begin checkout → purchase) built in BigQuery SQL on Google's public [GA4 sample e-commerce dataset](https://developers.google.com/analytics/bigquery/web-ecommerce-demo-dataset) (Google Merchandise Store, obfuscated).
 
 🇻🇳 Báo cáo tiếng Việt: [reports/bigquery/bao_cao.md](reports/bigquery/bao_cao.md)
